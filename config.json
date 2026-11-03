@@ -1,0 +1,5 @@
+{"start":{"gold":1000,"gems":1600},
+"tiers":{"C":{"mult":1,"maxStar":3,"rate":45},"B":{"mult":1.3,"maxStar":4,"rate":30},"A":{"mult":1.7,"maxStar":5,"rate":18},"S":{"mult":2.3,"maxStar":6,"rate":6},"SS":{"mult":3,"maxStar":7,"rate":1}},
+"pity":{"tier":"SS","count":80},"cost":{"one":100,"ten":900},"crit":0.15,"reward":{"gold":100,"gems":20},
+"enemies":[{"n":"Hải Quân","e":"⚓","spd":60},{"n":"Cướp Biển","e":"🏴‍☠️","spd":75},{"n":"Hải Thú","e":"🐙","spd":90}],
+"enemyBase":{"hp":700,"atk":70,"def":25,"scale":0.35}}

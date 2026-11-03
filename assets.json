@@ -1,0 +1,24 @@
+{
+ "bg": {},
+ "sprites": {
+  "akainu": "assets/heroes/akainu.jpg",
+  "sabo": "assets/heroes/sabo.jpg"
+ },
+ "heroBg": {},
+ "music": {},
+ "sfx": {},
+ "videos": {
+  "buggy_ult": "assets/video/skill_ref.mp4",
+  "smoker_ult": "assets/video/skill_ref.mp4",
+  "law_ult": "assets/video/skill_ref.mp4",
+  "zoro_ult": "assets/video/skill_ref.mp4",
+  "akainu_ult": "assets/video/skill_ref.mp4",
+  "sabo_ult": "assets/video/skill_ref.mp4"
+ },
+ "tips": [
+  "Đội hình cân bằng giữa hàng trước và hàng sau sẽ trụ được lâu hơn.",
+  "Triệu hồi trùng tướng sẽ tăng sao cho tướng đó.",
+  "Nộ đầy sẽ tự động tung tuyệt chiêu.",
+  "Sau 80 lượt triệu hồi chắc chắn có tướng SS."
+ ]
+}
